@@ -1,0 +1,15 @@
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\MoreLoops.exe
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\MoreLoops.deps.json
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\MoreLoops.runtimeconfig.json
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\MoreLoops.dll
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\ref\MoreLoops.dll
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\bin\Debug\net6.0\MoreLoops.pdb
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.csproj.AssemblyReference.cache
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.AssemblyInfoInputs.cache
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.AssemblyInfo.cs
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.csproj.CoreCompileInputs.cache
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.dll
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\ref\MoreLoops.dll
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.pdb
+C:\Users\oleks\source\repos\MoreLoops\MoreLoops\obj\Debug\net6.0\MoreLoops.genruntimeconfig.cache
