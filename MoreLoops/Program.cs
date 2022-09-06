@@ -14,13 +14,13 @@ static void NewMethod()
 
             //AND (&&)
 
-            if (userName == "Kasutaja" && userPassword == "Parool1")
+            if (userName == "tudeng" && userPassword == "pas1234")
             {
                 Console.WriteLine("Tere tulemast!");
             }
             else
             {
-                Console.WriteLine("Vale kasutajatunnus või salasõna! Proovi uuesti!");
+                Console.WriteLine("Vale kasutajatunnus või parool! Proovi uuesti!");
             }
         
     
