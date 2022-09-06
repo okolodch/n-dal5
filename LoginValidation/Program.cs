@@ -1,33 +1,33 @@
-﻿NewMethod();
+NewMethod();
 static void NewMethod()
 {
 
-    //programm palub kasutajal sisestada kasutajatunnus ja salasõna;
-    //kui sisestatud kasutajatunnus on "Kasutaja" ja sisestatud salasõna on "Parool1"
-    //siis kuvab konsool "Tere tulemast!"
-    //muul juhul kuvab konsool "Vale kasutajatunnus või salasõna! Proovi uuesti!"
-    //kasutajal on 3 katset;
+    
 
-    int i = 0;
+    int i = 0;  
 
-    while (i < 3)
+    while (i<3)
     {
-        Console.WriteLine("Sisesta kasutajatunnus:");
+        Console.WriteLine("Siseestage palun kasutajatunnus:");
         string userName = Console.ReadLine();
-        Console.WriteLine("Sisesta salasõna:");
-        string userPassword = Console.ReadLine();
-
-        if (userName == "tudeng" && userPassword == "1234")
-        {
-            Console.WriteLine("Tere tulemast!");
-            break;
+        Console.WriteLine("Sisestage parool:");
+        string password = Console.ReadLine();
+        if (userName == "tudeng" && password == "1234")
+            {
+            Console.WriteLine(" Tere tulemast");
+            break; 
         }
-        else
+        
+       
+        else 
         {
-            i++;
-            Console.WriteLine($"Vale kasutajatunnus või salasõna! {3 - i} katset on jäänud. Proovi uuesti!");
+            i = i + 1;
+            Console.WriteLine($"proovi uuesti. Teil on { 3 - i}  katset");
         }
+         if (i == 3)
+        {
+            Console.WriteLine("palun pöörduge administraatori poole, teie konto on blokeeritud");
 
+        }
     }
-
-}
+}   
