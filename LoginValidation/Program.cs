@@ -17,7 +17,7 @@ static void NewMethod()
         Console.WriteLine("Sisesta salasõna:");
         string userPassword = Console.ReadLine();
 
-        if (userName == "Kasutaja" && userPassword == "Parool1")
+        if (userName == "tudeng" && userPassword == "1234")
         {
             Console.WriteLine("Tere tulemast!");
             break;
